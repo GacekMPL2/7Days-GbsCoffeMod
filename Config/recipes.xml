@@ -1,0 +1,27 @@
+<configs>
+
+<append xpath="/recipes">
+
+
+		<recipe name="drinkJarGbsCoffe5XCALF" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable" craft_time="600">
+			<ingredient name="resourceCropGbs5XCALF" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="drinkJarGbsCoffeCALF" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable" craft_time="300">
+			<ingredient name="resourceCropGbsCALF" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="resourceCropGbs5XCALF" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable" craft_time="300">
+			<ingredient name="resourceCropCoffeeBeans" count="6"/>
+		</recipe>
+
+		<recipe name="resourceCropGbsCALF" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable" craft_time="150">
+			<ingredient name="resourceCropCoffeeBeans" count="3"/>
+		</recipe>
+
+
+</append>
+
+</configs>

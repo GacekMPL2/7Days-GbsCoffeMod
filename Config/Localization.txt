@@ -1,0 +1,9 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,polish
+drinkJarGbsCoffe5XCALF,Items,CFDrink/Cooking,,,"Kawa GBS 5x"
+drinkJarGbsCoffe5XDescCALF,Items,CFDrink/Cooking,,,"Zajebisty GBS"
+drinkJarGbsCoffeCALF,Items,CFDrink/Cooking,,,"Kawa GBS "
+drinkJarGbsCoffeDescCALF,Items,CFDrink/Cooking,,,"Zajebisty GBS"
+resourceCropGbs5XCALF,Items,CFDrink/Cooking,,,"GBS 5x"
+resourceCropGbs5XDescCALF,Items,CFDrink/Cooking,,"Zajebisty GBS 5x mocy"
+resourceCropGbsCALF,Items,CFDrink/Cooking,,,"GBS "
+resourceCropGbsDescCALF,Items,CFDrink/Cooking,,"Zajebisty GBS"

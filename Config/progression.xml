@@ -1,0 +1,8 @@
+<configs>
+		<append xpath="/progression/perks/perk[@name='perkMasterChef']/effect_group">
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags=",drinkJarGbsCoffe5XCALF"/>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags=",drinkJarGbsCoffeCALF"/>
+					<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags=",resourceCropGbs5XCALF"/>
+						<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags=",resourceCropGbsCALF"/>											
+		</append>
+</configs>
