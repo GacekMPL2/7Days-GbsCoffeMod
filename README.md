@@ -1,3 +1,3 @@
-# 7Days GbsCoffeMod
+#GbsCoffeMod
 #7 Days to die Mod
 #Alpha 20/21
